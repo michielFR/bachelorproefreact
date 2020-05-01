@@ -8,21 +8,19 @@ import Interop from './components/Interop';
 import Picofday from './components/Picofday';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './components/Navigation';
-import { HashRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route, Link } from 'react-router-dom';
 
 function App() {
   return (
     <Router basename='/'>
       <div className="App">
         <Navigation />
-        <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/sort" component={Sort} />
-          <Route path="/nasa" component={Nasa} />
-          <Route path="/picofday" component={Picofday} />
-          <Route path="/chart" component={Chart} />
-          <Route path="/interop" component={Interop} />
-        </Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/sort" component={Sort} />
+        <Route path="/nasa" component={Nasa} />
+        <Route path="/picofday" component={Picofday} />
+        <Route path="/chart" component={Chart} />
+        <Route path="/interop" component={Interop} />
       </div>
     </Router>
   );

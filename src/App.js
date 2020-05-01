@@ -8,7 +8,7 @@ import Interop from './components/Interop';
 import Picofday from './components/Picofday';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './components/Navigation';
-import { HashRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 
 function App() {
   return (

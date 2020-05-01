@@ -1,0 +1,27 @@
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 4rem;
+  background: lightblue;
+  color: white;
+}
+
+.nav-links{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.link-style{
+  color: white;
+  
+}
+
+.link-style:hover{
+  color: black;
+}
+
+

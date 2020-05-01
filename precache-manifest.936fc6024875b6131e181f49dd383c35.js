@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50008982e7fa5a67436d50c1e0ef3569",
+    "revision": "114e69e24f74486e5434a5da0df6ff0b",
     "url": "/bachelorproefreact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bachelorproefreact/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "85d6c332e4a04b5398ed",
+    "revision": "1139e93ca7bd0e09ed17",
     "url": "/bachelorproefreact/static/css/main.fb03c26b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bachelorproefreact/static/js/2.b5f6ed42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85d6c332e4a04b5398ed",
-    "url": "/bachelorproefreact/static/js/main.9bc7c02a.chunk.js"
+    "revision": "1139e93ca7bd0e09ed17",
+    "url": "/bachelorproefreact/static/js/main.cd844bd3.chunk.js"
   },
   {
     "revision": "82d293cfda80b7ba27b2",

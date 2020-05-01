@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bachelorproefreact/static/css/main.fb03c26b.chunk.css",
-    "main.js": "/bachelorproefreact/static/js/main.4fd39b9b.chunk.js",
-    "main.js.map": "/bachelorproefreact/static/js/main.4fd39b9b.chunk.js.map",
+    "main.js": "/bachelorproefreact/static/js/main.f2e8be1d.chunk.js",
+    "main.js.map": "/bachelorproefreact/static/js/main.f2e8be1d.chunk.js.map",
     "runtime-main.js": "/bachelorproefreact/static/js/runtime-main.70746886.js",
     "runtime-main.js.map": "/bachelorproefreact/static/js/runtime-main.70746886.js.map",
     "static/css/2.de424728.chunk.css": "/bachelorproefreact/static/css/2.de424728.chunk.css",
     "static/js/2.c33674a8.chunk.js": "/bachelorproefreact/static/js/2.c33674a8.chunk.js",
     "static/js/2.c33674a8.chunk.js.map": "/bachelorproefreact/static/js/2.c33674a8.chunk.js.map",
     "index.html": "/bachelorproefreact/index.html",
-    "precache-manifest.56cf7086b7eb28c40286f6a8a3e43e7f.js": "/bachelorproefreact/precache-manifest.56cf7086b7eb28c40286f6a8a3e43e7f.js",
+    "precache-manifest.b4788ef53f098acc5aedd686a33f86e4.js": "/bachelorproefreact/precache-manifest.b4788ef53f098acc5aedd686a33f86e4.js",
     "service-worker.js": "/bachelorproefreact/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/bachelorproefreact/static/css/2.de424728.chunk.css.map",
     "static/css/main.fb03c26b.chunk.css.map": "/bachelorproefreact/static/css/main.fb03c26b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.c33674a8.chunk.js",
     "static/css/main.fb03c26b.chunk.css",
-    "static/js/main.4fd39b9b.chunk.js"
+    "static/js/main.f2e8be1d.chunk.js"
   ]
 }

@@ -8,11 +8,11 @@ import Interop from './components/Interop';
 import Picofday from './components/Picofday';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './components/Navigation';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <div className="App">
         <Navigation />
         <Switch>

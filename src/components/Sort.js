@@ -40,7 +40,7 @@ class Sort extends React.Component {
         getal++;
       }
     }
-    arr = this.Shuffle(arr);
+    arr = this.shuffle(arr);
     this.setState({ gegenereerd: arr, currentdistribution: 'Few unique', justsorted: false })
     this.fillGesorteerd(arr);
   }
